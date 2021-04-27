@@ -4,7 +4,7 @@
 #include "graphs.h"
 
 /**
- * graph_display - Utility function to display the adjency linked list
+ * graph_display - Utility function to display the adjacency linked list
  *
  * @graph: Pointer to the graph structure to be displayed
  */
